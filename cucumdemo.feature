@@ -34,7 +34,7 @@ Feature: Pixel store pos
 
     Examples: 
       | user    | password    |
-      | Lalitha | password123 |
+      | Lalitha | password1234 |
       | pratyu  |      123456 |
 
   @datadriven
